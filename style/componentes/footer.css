@@ -1,0 +1,20 @@
+footer{
+  background-color: #f8f8f8;
+  color: #003594;
+  font-size: small;
+  font-family: 'Open Sans', sans-serif;
+}
+footer a {
+  font-size: medium;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  color: #003594;
+}
+footer p {
+  border-top: solid 1px #003594;
+  font-size: small;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300!important;
+}
+
+

@@ -1,0 +1,332 @@
+.banner_acidez{
+  background-size: cover!important;
+  padding: 5%;
+  color: white;
+  background-color: #003594; 
+} 
+@media(max-width: 600){
+  .banner_acidez{
+    background-size: cover!important;
+
+    color: white;
+    background-color: #003594; 
+  }
+}
+
+.banner_acidez_2{
+  background-size: cover!important;
+  padding: 9%;
+  color: white;
+  background-color: #003594; 
+} 
+@media(max-width: 600){
+  .banner_acidez_2{
+    background-size: cover!important;
+    color: white;
+    background-color: #003594; 
+  }
+}
+
+
+.h1a{
+  color: white;
+  background-color: #003594;
+  width: 4em !important;
+  padding: 5px !important;
+  font-size: 3em !important;
+}
+@media(max-width:600px){
+  .h1a{
+    width: 4.3em !important;
+    font-size: 1em !important;
+  }
+}
+
+
+.h1-a{
+  color: white;
+  background-color: #003594;
+  width: 5em !important;
+  padding: 5px !important;
+  font-size: 3em !important;
+}
+@media(max-width: 600px){
+  .h1-a{
+    font-size: 1em!important;
+    width: 5.5em!important;
+  }
+}
+
+.h1b{
+  color: white;
+  background-color: #003594;
+  width: 8em !important;
+  padding: 5px !important;
+  font-size: 3em;
+}
+@media(max-width: 600px){
+  .h1b{
+    font-size: 1em !important;
+    width: 9em!important;
+  }
+}
+.h1c{
+  color: white;
+  background-color: #003594;
+  width: 9em;
+  font-size: 3em!important;
+  padding: 5px !important;
+}
+@media(max-width: 600px){
+  .h1c{
+    font-size: 1em !important;
+    width: 10em!important;
+  }
+}
+
+
+.h1d{
+  color: white;
+  background-color: #003594;
+  width: 8.5em !important;
+  padding: 5px !important;
+  font-size: 3em !important;
+}
+@media(max-width: 600px){
+  .h1d{
+    width: 9em!important;
+    font-size: 1em!important;
+    margin: 0!important;
+  }
+}
+
+.h1b2{
+  color: white;
+  background-color: #003278;
+  width: 6.5em !important;
+  padding: 7px !important;
+  font-size: 5em!important;
+}
+@media(max-width: 600px){
+  .h1b2{
+    width: 7em !important;
+    font-size: 1.5em !important;
+    margin: 0;
+  }
+}
+.h1c2{
+  color: white;
+  background-color: #003278;
+  width: 6em !important;
+  padding: 7px !important;
+  font-size: 5em!important;
+}
+@media(max-width: 600px){
+  .h1c2{
+    width: 6em!important;
+    font-size: 1.5em!important;
+    margin: 0;
+  }
+}
+.h2a{
+  color: white;
+  margin-top: 20px!important;
+  margin-bottom: 0!important;
+  background-color: #D12A2A;
+  width: 12.5em !important;
+  padding: 7px !important;
+  font-size: 2.7em!important;
+}
+@media(max-width: 600px){
+  .h2a{
+    width: 14em!important;
+    font-size: 0.7em!important;
+    margin: 0;
+  }
+}
+.h2b{
+  color: white;
+  background-color: #D12A2A;
+  width: 9em !important;
+  padding: 7px !important;
+  font-size: 2.7em!important;
+}
+@media(max-width: 600px){
+  .h2b{
+    width: 11em!important;
+    font-size: 0.7em!important;
+    margin: 0;
+  }
+}
+
+
+.banner_acidez a{
+  background-color: #D12A2A;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+  font-size: 1.1em;
+  padding: 6px!important;
+  width: 14em;
+}
+
+.banner_acidez a:hover {
+  color: #003594!important;
+
+}
+.banner_acidez_2 a{
+  background-color: #D12A2A;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+  font-size: 1.1em;
+  padding: 6px!important;
+  width: 14em;
+}
+
+@media(max-width: 600px){
+  .banner_acidez_2 a{
+    width: 13em;
+    font-size: 0.5em;
+   
+  }
+}
+.banner_acidez_2 a:hover {
+  color: #003594!important;
+}
+
+
+
+
+
+.cards-acidez h2{
+  color: #003594;
+  font-size: large;
+  margin-left: 16px;
+}
+@media(max-width: 600px){
+  .cards-acidez h2{
+  font-size: 1em;
+  
+  }
+}
+
+.cards-acidez p{
+  font-family: 'Open Sans', sans-serif; 
+  font-weight: 500!important;
+  margin-left: 16px;
+}
+@media(max-width: 600px){
+  .cards-acidez p{
+  font-size: 0.9em;
+    
+  }
+}
+.p-empresa{
+  font-family: 'Open Sans', sans-serif; 
+  font-weight: 500!important;
+}
+.cards-acidez-span{
+  font-family: 'Open Sans', sans-serif; 
+  font-weight: 500!important;
+}
+
+.p-acidez{
+  border: solid 1px #D12A2A;
+  width: 300px;
+  height: 355px;
+  padding: 2%;
+}
+@media(max-width: 600px){
+  .p-acidez{
+    border: solid 1px #D12A2A;
+    padding: 1%!important;
+  }
+}
+
+
+.t-acidez{
+  font-size: large;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  color: #003594;
+  margin-bottom: 1px!important;
+}
+
+
+.color-acidez{
+  color: #003594;
+}
+
+.titulo-productos{
+  color: #003594;
+  font-size: 1.3em;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+}
+
+.titulo-rojo{
+  color: #D12A2A;
+  font-size: 1.3em;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+}
+
+h6{
+  font-family: 'Open Sans', sans-serif; 
+  font-weight: 500!important;
+  font-size: xx-small;
+}
+
+
+@media(max-width: 600px){
+  .banner_acidez{
+    padding: 1%;
+    background-size: cover!important;
+    ;
+  }
+}
+
+
+@media(max-width: 600px){
+  .banner_acidez h1{
+    width: 6em;
+    font-size: 150%;
+    padding: 5px !important;
+  }
+}
+
+.banner_acidez a{
+  background-color: #D12A2A;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+  font-size: 1.1em;
+  padding: 6px!important;
+  width: 14em;
+}
+@media(max-width: 600px){
+  .banner_acidez a{
+    width: 15em;
+    font-size: 60%;
+    padding: 5px !important;
+  }
+}
+
+
+.img_mobile{
+  width: 90px;
+  height: 90px;
+ 
+}
+
+@media(max-width: 600px){
+  .img_mobile{
+    width: 50px;
+    height: 50px;
+    font-size: 10px;
+  }
+}
+
+
+

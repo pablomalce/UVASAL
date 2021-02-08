@@ -1,0 +1,32 @@
+.nombres{
+  color:#003278 !important;
+  font-size:medium;
+  margin: 4px !important;
+  margin-left: 4px;
+  font-weight: 500;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+.navbar-bc{
+  background-color: white;
+}
+
+#uvasal-logo{
+  width: 6em;
+
+}
+
+#gsk-logo{
+  width: 2em;
+  margin-left: 9%;
+}
+.rs{
+ width: 1.3em;
+ margin-right: 3%;
+}
+
+
+
+
+

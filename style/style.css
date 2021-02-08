@@ -1,0 +1,81 @@
+@import url("componentes/navbar.css");
+@import url("componentes/footer.css");
+@import url("componentes/acidez.css");
+@import url("componentes/preguntas_frecuentes.css");
+@import url("componentes/home.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,400&display=swap');
+
+
+
+
+
+a:hover{
+  text-decoration: none;
+  }
+a{
+  text-decoration: none;
+  color:#003278;
+}
+
+
+h1, h2, h3{
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  color: #003278;
+}
+h3, p{
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+  color: #003278;
+}
+
+/* ul>li>a:hover {
+  background-color: #295da7!important;
+  color: aliceblue!important;
+  border-radius: 4px;
+} */
+.jumptarget::before {
+  content:"";
+  display:block;
+  height:120px; 
+  margin:-120px 0 0;
+}
+@media(max-width: 600px){
+  .jumptarget::before {
+    content:"";
+    display:none;
+    height:120px; 
+    margin:-120px 0 0;
+  }
+}
+.color-clasica{
+color:#003278
+}
+.color-naranja{
+color:#FF8C1D;  
+}
+
+.color-limon{
+color:#9F8708;   
+}
+
+.btn_prospecto{
+  border: solid 1px #D12A2A;
+  border-radius: 150px 75px;
+  background-color: #D12A2A;
+  color: white;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+  font-size: larger;
+  width: 9em;
+  padding: 5px!important;
+  text-align: center;
+  
+}
+.btn_prospecto :hover{
+  text-decoration: none;
+}
